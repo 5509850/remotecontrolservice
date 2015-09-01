@@ -1,0 +1,6 @@
+E:\newrcserver\remotecontrolserverwcf\remotecontrolserverwcf\bin\remotecontrolserverwcf.dll.config
+E:\newrcserver\remotecontrolserverwcf\remotecontrolserverwcf\bin\remotecontrolserverwcf.dll
+E:\newrcserver\remotecontrolserverwcf\remotecontrolserverwcf\bin\remotecontrolserverwcf.pdb
+E:\newrcserver\remotecontrolserverwcf\remotecontrolserverwcf\obj\Debug\remotecontrolserverwcf.csprojResolveAssemblyReference.cache
+E:\newrcserver\remotecontrolserverwcf\remotecontrolserverwcf\obj\Debug\remotecontrolserverwcf.dll
+E:\newrcserver\remotecontrolserverwcf\remotecontrolserverwcf\obj\Debug\remotecontrolserverwcf.pdb

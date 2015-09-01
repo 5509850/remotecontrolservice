@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="remotecontrolserverwcf.ServiceRC" CodeBehind="reservice.svc.cs" %>
